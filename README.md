@@ -1,7 +1,7 @@
 # 🌟 **Deferred Rendering Pack for Minecraft Bedrock** 🌟
 
 **THE PACK'S NAME IS NOT DECIDED YET (As of 9/26)**
-update: 11/4. Tentative name: **Eunoia Deferred Lighting**
+-Update: 11/4. Tentative name is  **Eunoia Deferred Lighting**
 
 Hey Minecrafters! 👋
 

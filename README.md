@@ -1,6 +1,7 @@
 # 🌟 **Deferred Rendering Pack for Minecraft Bedrock** 🌟
 
 **THE PACK'S NAME IS NOT DECIDED YET (As of 9/26)**
+update: 11/4. Tentative name: **Eunoia Deferred Lighting**
 
 Hey Minecrafters! 👋
 
@@ -66,9 +67,11 @@ Ready to transform your Minecraft experience? Follow these simple steps to get s
 6. **🎮 Enjoy!**
    - Dive into your enhanced Minecraft world and enjoy the new visuals!
 
-### 📸 **Screenshots**
+### 📸 **Screenshots** (This is the work-in-progress screenshot.)
 
-*Coming Soon!* Stay tuned for screenshots showcasing the incredible visual transformations the Deferred Rendering Pack provides. 📷✨
+![Screenshot 2024-11-02 224702](https://github.com/user-attachments/assets/d2f879a7-06f9-49fe-997c-8520613173e4)
+![Screenshot 2024-11-02 181402](https://github.com/user-attachments/assets/50dbce31-0037-4fd9-85b3-878bca7e4a0a)
+
 
 ### 🤝 **Contributing**
 
@@ -143,7 +146,9 @@ Minecraft体験を変革する準備はできましたか？以下の簡単な�
 
 ### 📸 **スクリーンショット**
 
-*近日公開！* Deferred Rendering Packが提供する驚異的なビジュアル変換を示すスクリーンショットをお楽しみに。📷✨
+*完成形は近日公開！* Deferred Lighting Packのスクリーンショットをお楽しみに。📷✨
+![Screenshot 2024-11-02 224702](https://github.com/user-attachments/assets/b2683fac-3def-4c65-af1a-c7b8fa090815)
+
 
 ### 🤝 **貢献方法**
 
